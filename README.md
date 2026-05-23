@@ -1,5 +1,7 @@
 # ELON Codex Skill
 
+![ELON Codex Skill](assets/ELON-CODEX-SKILL.jpg)
+
 ELON is a mission-first engineering skill for Codex.
 
 It helps Codex stay focused on the real bottleneck, inspect the live code before advising, question requirements, delete before adding, simplify before optimizing, automate last, conserve tokens and credits, avoid product bloat, and return proof-backed findings in plain language.
