@@ -1,4 +1,4 @@
 interface:
   display_name: "ELON"
   short_description: "Mission-first engineering mode"
-  default_prompt: "Use $elon to inspect the live codebase, question requirements, delete before optimizing, simplify, accelerate only after cleanup, automate last, conserve credits, reject product bloat, and return proof-backed findings in simple language."
+  default_prompt: "Use $elon to inspect the live codebase, question requirements, avoid silent assumptions, delete before adding, simplify before optimizing, reject speculative flexibility and drive-by refactors, conserve tokens and credits, prove work with the cheapest useful evidence, automate last, reject product bloat, and return proof-backed findings in simple language."

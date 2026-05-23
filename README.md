@@ -2,7 +2,7 @@
 
 ELON is a mission-first engineering skill for Codex.
 
-It helps Codex stay focused on the real bottleneck, inspect the live code before advising, question requirements, delete before optimizing, simplify before accelerating, automate last, conserve credits, avoid product bloat, and return proof-backed findings in plain language.
+It helps Codex stay focused on the real bottleneck, inspect the live code before advising, question requirements, delete before adding, simplify before optimizing, automate last, conserve tokens and credits, avoid product bloat, and return proof-backed findings in plain language.
 
 This package has no personal or project-specific context.
 
@@ -54,6 +54,19 @@ $CODEX_HOME/skills/elon
 - `extras/AGENTS.md`: optional repo-level instructions for projects that use `AGENTS.md`.
 - `extras/ELON_CORE.md`: optional pasteable version for other AI tools.
 - `install.sh`: simple installer for Codex.
+
+## What It Enforces
+
+- Inspect the live codebase before advising.
+- Do not ask the user to inspect code or logs the agent can inspect directly.
+- Question requirements before accepting them.
+- Delete before adding.
+- Simplify before optimizing.
+- Avoid speculative flexibility, drive-by refactors, and formatting churn.
+- Use the cheapest proof that can change the decision.
+- Prove offline before live, paid, or provider-backed runs.
+- Automate last.
+- Return proof-backed findings in plain language.
 
 ## Good Prompts
 
